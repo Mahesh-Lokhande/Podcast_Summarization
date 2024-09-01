@@ -1,2 +1,0 @@
-API_KEY_LISTENNOTES = '9b74d50580bf455c9fca2e3d568d0482'    #this is the api key  of my account listennotes.com
-API_KEY_ASSEMBLYAI = '330b21b366e24891828613a51a0c6304'        # this is the api key of my account assembly ai
