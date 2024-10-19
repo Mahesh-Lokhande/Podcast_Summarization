@@ -14,8 +14,8 @@ import json
 import pprint
 
 # from secrets import API_KEY_LISTENNOTES, API_KEY_ASSEMBLYAI
-API_KEY_LISTENNOTES = '9b74d50580bf455c9fca2e3d568d0482'    #this is the api key  of my account listennotes.com
-API_KEY_ASSEMBLYAI = '330b21b366e24891828613a51a0c6304'        # this is the api key of my account assembly ai
+API_KEY_LISTENNOTES = 'Enter your api key'    #this is the api key  of my account listennotes.com
+API_KEY_ASSEMBLYAI = 'Enter your api key'        # this is the api key of my account assembly ai
 
 Listennotees_episode_endpoint = 'https://listen-api.listennotes.com/api/v2/episodes'
 headers_listennotes = {
